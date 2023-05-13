@@ -1,0 +1,176 @@
+/* .open{
+  
+} */
+
+*{
+  margin: 0;
+  
+
+}
+
+ 
+.intro{
+
+  width: 64%;
+  height: 640px;
+  float: left;
+  background-image: url(https://wallpaper-house.com/data/out/8/wallpaper2you_253846.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.99;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+
+
+
+
+
+.intro span{
+  position: absolute;
+  top: 380px;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.intro h1{
+  color: rgba(56, 56, 163, 0.774);
+  font-size: 50px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-weight: bolder;
+  font-family: 'Bruno Ace', cursive;
+  
+}
+
+.test{
+  width: 36%;
+  height: 360px;
+  float: left;
+  
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/743/536/875/sachin-tendulkar-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.odi{
+  width: 18%;
+  height:280px ;
+  float: left;
+  
+  background-image: url(https://i.pinimg.com/originals/bc/82/a3/bc82a3c3171c3661b0932dab042ce2e1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+.ranji{
+  width: 18%;
+  height:280px ;
+  float: right;
+ 
+  background-image: url(https://im.rediff.com/cricket/2014/nov/15sachin1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.second{
+  background-color: rgb(54, 48, 48);
+  clear: both;
+  width: 100%;
+  height: 1250px;
+}
+
+.second h1{
+  color: white;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 25px;
+}
+
+.second iframe{
+  width: 400px;
+  height: 200px;
+  margin: 20px;
+  
+}
+
+
+.third{
+  background-color: rgb(54, 48, 48);
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: space-evenly;
+ 
+
+}
+
+.thd{
+  width: 350px;
+  height: 300px;
+  background-color: rgb(54, 48, 48);
+  display: flex;
+  justify-content: center;
+  
+}
+
+.thd img{
+  border-radius: 22px;
+
+}
+
+
+.four{
+  background-color: rgb(54, 48, 48);
+ 
+  width: 100%;
+  height: 700px;
+ 
+}
+
+.four h1{
+  color: white;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 25px;
+  
+}
+
+.four iframe{
+  width: 600px;
+  height: 400px;
+ 
+}
+
+.ifr{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+footer{
+  padding: 10px;
+  background-color: rgba(71, 71, 78, 0.863);
+  width: 100%;
+  height: 450px;
+  display: flex;
+}
+
+table{
+  margin-top: 100px;
+  margin-left: 20px;
+  width: 600px;
+  height: 250px;
+  text-align: center;
+  color: white;
+ 
+  
+}
+
